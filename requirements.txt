@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 cat > requirements.txt << 'EOF'
+=======
+>>>>>>> c3818a0 (Fix requirements.txt with proper package list)
 streamlit==1.28.0
 Pillow==10.0.1
 pypdf2==3.0.1
@@ -6,5 +9,9 @@ PyMuPDF==1.23.8
 pandas==2.1.3
 python-docx==1.1.0
 openpyxl==3.1.2
+<<<<<<< HEAD
 filetype==1.2.0
 EOF
+=======
+filetype==1.2.0
+>>>>>>> c3818a0 (Fix requirements.txt with proper package list)
